@@ -6,5 +6,5 @@
 
 = For windows users =
 
- [HowTo_win32bin]
+ [HowTo_win32bin] <br>
  [HowTo_compile_under_windows]
