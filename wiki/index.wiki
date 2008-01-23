@@ -1,0 +1,10 @@
+#summary index page
+
+= For linux users =
+
+ [HowTo_Linux_Run]
+
+= For windows users =
+
+ [HowTo_win32bin]
+ [HowTo_compile_under_windows]
