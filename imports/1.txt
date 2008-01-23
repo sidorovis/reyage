@@ -1,0 +1,4 @@
+Borov : 
+UNORIENT ; 
+Center , n1 , n2 , node3 , node4 , n5 , node6 , vert7 , vert8 ; 
+Center -> n1 , n1 -> n5 , n5 -> node3 , node3 -> Center , Center -> vert8 , vert8 -> node4 , node4 -> vert7 , vert7 -> Center , Center -> n2 , n2 -> node6 , node6 -> Center . 
